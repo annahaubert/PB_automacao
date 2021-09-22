@@ -1,0 +1,18 @@
+ate o momento não tive grandes problemas com os conceitos 
+
+ensinados ja que a principio não tive nenhum contra tempo
+
+utilizando esses comandos basicos como:
+ git status
+git add .
+git commit -m
+ git pull (que serve para buscar as mudanças
+no repositorio remoto para o local) 
+git push (que serve para
+enviar as mudanças locais para o repositorio remoto)
+
+
+e a utilização das ferramentas graficas são intuitivas 
+principalmente o github desktop que acaba mostrando oque 
+precisa ser feito como fazer commits para mudanças
+atualizar repositorio remoto ou local 
