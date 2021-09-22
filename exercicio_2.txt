@@ -1,0 +1,10 @@
+Julio Cesar Spanholi
+
+Até agora estou entendendo todos os comandos
+e conceitos ensinados. Encontrei um erro de
+identificação no git commit -m, mas ontem mesmo
+consegui resolver. 
+
+Estou me habituando com as ferramentas, e precisei
+rever algumas coisas. Mas com prática vou me 
+acostumando.
