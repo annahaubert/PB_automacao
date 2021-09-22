@@ -1,0 +1,4 @@
+Não tive muita dificuldade em entender os conceitos comandos apresentados pois eles foram bem explicados
+e organizados. Já tinha conhecimento básico pois já tinha usado anteriormente o github por meio de uma integração com o Atom
+enquanto trabalhava em um trabalho da faculdade em que era necessário desenvolver um site em HTML, mas usei mais o github como meio para poder trabalhar no mesmo projeto em diferentes computadores ao invés
+de um controle de versões, por isso acredito que essa aula foi essencial para complementar e adquirir conhecimentos que não tinha me aprofundado no meu projeto anterior.
