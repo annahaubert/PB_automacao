@@ -1,0 +1,1 @@
+Tem como deletar um commit depois que for enviado para o repositório remoto?
