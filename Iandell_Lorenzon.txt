@@ -1,0 +1,6 @@
+Nome: Iandell Lorenzon
+
+Dificuldades encontradas
+- utilizei o tortoise guit, porém ainda acho um pouco confuso as opções da ferramenta
+- clonei a pasta com facilidade, porém não tenho certeza se está correto pois apareceu outros arquivos e não apareceu a pasta .git
+- consegui subir as evidências porém não da pasta local e sim direto no github
