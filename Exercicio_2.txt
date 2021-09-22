@@ -1,0 +1,9 @@
+Nome: Andriano Toazza
+
+Particularmente como dificuldades, eu tive com o comando "git commit", sendo que apareciam erros
+fatais na tela como mensagem. Então precisei ler e reler os slides do dia de ontem para efetuar
+a correção necessária que era preciso, fiz ela através do "git config", colocando os dados
+necessários. Também tive dificuldades para subir os arquivos no repositório.
+Posso citar também o Tortoise Git como uma ferramenta díficil de lidar, como sou iniciante, o
+GitHub Desktop se mostra muito mais amigável e principalmente sem o risco de fazer algum erro
+na área de trabalho.
