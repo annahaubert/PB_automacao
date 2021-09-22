@@ -1,6 +1,0 @@
-
-	Dificuldades 
-
-Tive dificuldade para fazer a configuração do Git, para resolver voltei aos slides.
-Tive dificuldade para subir meu arquivos.
-A ferramenta tortoise git, para mim foi mais complicada de entender.
