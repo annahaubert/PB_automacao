@@ -1,0 +1,5 @@
+ADD = eu consegui fazer o commit sem utilizar o add antes isso pode ocasionar algum problema?
+
+
+
+era isso 
