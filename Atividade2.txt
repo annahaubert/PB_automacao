@@ -1,0 +1,3 @@
+Um dos comandos que não consegui compreender corretamente foi o  comando git remote add origin<url_remoto>.
+ Após pesquisar na internet eu consegui compreender, porem na explicação utilizada na masterclass, não consegui compreender de maneira concisa.
+No geral, o compreendimento dos outros comandos, passados anteriormente e na masterclass atual, foi sentro do esperado, e consegui entender tranquilamente
