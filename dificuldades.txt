@@ -1,0 +1,9 @@
+- deu pra clonar tranquilamente, depois na questão das branchs 
+que tive dificuldade.
+
+- achei o tortoise um pouco complexo no início mas depois de mexer 
+bastante deu pra compreender melhor.
+
+- com o tortoise não consegui fazer a criação da branch porque estava dando erro,
+então fiz com o github desktop e deu certo. porém, continuando o processo consegui
+apenas upar as evidencias a partir da pasta e com o tortoise.
