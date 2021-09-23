@@ -1,0 +1,4 @@
+Kaline Maciel
+
+Os conceitos estudados nao geraram duvidas, mas a forma como os comandos do Tortoise apareceram foram diferente dos apresentados na MasterClass, o que dificultou a execucao da tarefa.
+Por exemplo: ao tentar usar o Tortoise, não aparecem os comando "Git Clone" ou "Git Create Repository"
